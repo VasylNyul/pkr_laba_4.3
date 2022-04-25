@@ -1,0 +1,6 @@
+tor
+perst
+10
+barsik
+shop
+20
